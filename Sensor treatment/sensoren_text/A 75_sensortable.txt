@@ -1,0 +1,139 @@
+Nr.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+
+Konfiguration
+
+GBR-Konfiguration - Darmstadt Nord
+
+LSA-Detektoren
+
+A 75 - Bismarckstr. / Kirschenallee
+
+aktiv
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+Druckdatum: 08.01.2013
+Druckzeit: 10:04:41
+Druckseite: 1 von 1
+
+Zuordnung
+D 11
+D 12
+D 13
+D 14
+D 21
+D 22
+D 41
+D 42
+MP 1
+MP 2
+MP 3
+MP 4 BL
+MP 5 BL
+MP 6 BL
+MP 4 S
+MP 5 S
+MP 6 S
+MP 4 BG
+MP 5 BG
+MP 6 BG
+MP 1 S
+MP 2 S
+MP 7 S
+MP 1 B
+MP 2 B
+MP 7 B
+FG-AF T3/4
+
+Copyright © Signalbau Huber GmbH / CTi Ingenieur- und Vertriebsgesellschaft mbH
+
+

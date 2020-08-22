@@ -1,0 +1,135 @@
+Nr.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+
+Konfiguration
+
+GBR-Konfiguration - Darmstadt Nord
+
+LSA-Detektoren
+
+A 82 - Frankfurter Landstr. / Gehmerweg / Grillparzerstr.
+
+aktiv
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+Druckdatum: 08.01.2013
+Druckzeit: 10:05:21
+Druckseite: 1 von 1
+
+Zuordnung
+IR 21
+D 51_1
+D 51_2
+IR 81
+D 111_1
+D 111_2
+T1_s
+T1_b
+T2_s
+T2_b
+T3_b
+T4_b
+T5_s
+T5_b
+T6_s
+T6_b
+T7_b
+T8_b
+MP 1
+MP 2
+MP 3
+MP 3_A72
+MP 2_A73
+MP 3_A73
+MP 3_A133
+
+Copyright © Signalbau Huber GmbH / CTi Ingenieur- und Vertriebsgesellschaft mbH
+
+
